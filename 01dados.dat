@@ -1,0 +1,12 @@
+4 7
+2 luiz 65.737.800/0001-35
+1 neto 123.765.876-10
+1 medeiros 830.392.280-72
+1 Rennyson 16261362764
+ContaCorrente. neto 1 1746.25 0 0 4 crédito 21/05/2021 depósito 200 crédito 21/05/2021 depósito 250 débito 21/05/2021 saque 300 crédito 21/05/2021 depósito 350
+ContaCorrenteComLimite. luiz 2 3000 200 0 4 crédito 21/05/2021 depósito 200 crédito 21/05/2021 depósito 250 débito 21/05/2021 saque 300 crédito 21/05/2021 depósito 350
+ContaPoupança. luiz 4 5838.8 0 5 2 crédito 21/05/2021 depósito 300 débito 21/05/2021 saque 90.3
+ContaCorrente. neto 5 1560.48 0 0 5 crédito 21/05/2021 depósito 200 crédito 21/05/2021 depósito 500 débito 21/05/2021 saque 100 crédito 21/05/2021 depósito 110.97 débito 21/05/2021 saque 50.49
+ContaPoupança. medeiros 6 747 0 8 5 débito 21/05/2021 saque 100 crédito 21/05/2021 depósito 100 crédito 21/05/2021 depósito 182 crédito 21/05/2021 depósito 100 crédito 21/05/2021 depósito 100
+ContaCorrenteComLimite. neto 3 1172.43 200 0 2 crédito 21/05/2021 depósito 600 débito 21/05/2021 saque 250
+ContaCorrente. Rennyson 10 963 0 0 2 débito 21/05/2021 saque 5 crédito 21/05/2021 depósito 956
